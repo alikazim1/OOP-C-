@@ -1,0 +1,10 @@
+C:\Users\alika\source\repos\LowerTri\bin\Debug\LowerTri.exe.config
+C:\Users\alika\source\repos\LowerTri\bin\Debug\LowerTri.exe
+C:\Users\alika\source\repos\LowerTri\bin\Debug\LowerTri.pdb
+C:\Users\alika\source\repos\LowerTri\bin\Debug\TextFile.dll
+C:\Users\alika\source\repos\LowerTri\obj\Debug\LowerTri.csproj.AssemblyReference.cache
+C:\Users\alika\source\repos\LowerTri\obj\Debug\LowerTri.csproj.SuggestedBindingRedirects.cache
+C:\Users\alika\source\repos\LowerTri\obj\Debug\LowerTri.csproj.CoreCompileInputs.cache
+C:\Users\alika\source\repos\LowerTri\obj\Debug\LowerTri.csproj.CopyComplete
+C:\Users\alika\source\repos\LowerTri\obj\Debug\LowerTri.exe
+C:\Users\alika\source\repos\LowerTri\obj\Debug\LowerTri.pdb

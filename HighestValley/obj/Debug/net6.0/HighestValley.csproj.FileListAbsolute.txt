@@ -1,0 +1,17 @@
+C:\Users\alika\source\repos\HighestValley\bin\Debug\net6.0\HighestValley.exe
+C:\Users\alika\source\repos\HighestValley\bin\Debug\net6.0\HighestValley.deps.json
+C:\Users\alika\source\repos\HighestValley\bin\Debug\net6.0\HighestValley.runtimeconfig.json
+C:\Users\alika\source\repos\HighestValley\bin\Debug\net6.0\HighestValley.dll
+C:\Users\alika\source\repos\HighestValley\bin\Debug\net6.0\HighestValley.pdb
+C:\Users\alika\source\repos\HighestValley\obj\Debug\net6.0\HighestValley.csproj.AssemblyReference.cache
+C:\Users\alika\source\repos\HighestValley\obj\Debug\net6.0\HighestValley.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alika\source\repos\HighestValley\obj\Debug\net6.0\HighestValley.AssemblyInfoInputs.cache
+C:\Users\alika\source\repos\HighestValley\obj\Debug\net6.0\HighestValley.AssemblyInfo.cs
+C:\Users\alika\source\repos\HighestValley\obj\Debug\net6.0\HighestValley.csproj.CoreCompileInputs.cache
+C:\Users\alika\source\repos\HighestValley\obj\Debug\net6.0\HighestValley.dll
+C:\Users\alika\source\repos\HighestValley\obj\Debug\net6.0\refint\HighestValley.dll
+C:\Users\alika\source\repos\HighestValley\obj\Debug\net6.0\HighestValley.pdb
+C:\Users\alika\source\repos\HighestValley\obj\Debug\net6.0\HighestValley.genruntimeconfig.cache
+C:\Users\alika\source\repos\HighestValley\obj\Debug\net6.0\ref\HighestValley.dll
+C:\Users\alika\source\repos\HighestValley\bin\Debug\net6.0\TextFile.dll
+C:\Users\alika\source\repos\HighestValley\obj\Debug\net6.0\HighestValley.csproj.CopyComplete

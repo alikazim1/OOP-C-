@@ -1,0 +1,17 @@
+C:\Users\alika\source\repos\LongestWordContainingW\bin\Debug\net7.0\LongestWordContainingW.exe
+C:\Users\alika\source\repos\LongestWordContainingW\bin\Debug\net7.0\LongestWordContainingW.deps.json
+C:\Users\alika\source\repos\LongestWordContainingW\bin\Debug\net7.0\LongestWordContainingW.runtimeconfig.json
+C:\Users\alika\source\repos\LongestWordContainingW\bin\Debug\net7.0\LongestWordContainingW.dll
+C:\Users\alika\source\repos\LongestWordContainingW\bin\Debug\net7.0\LongestWordContainingW.pdb
+C:\Users\alika\source\repos\LongestWordContainingW\bin\Debug\net7.0\TextFile.dll
+C:\Users\alika\source\repos\LongestWordContainingW\obj\Debug\net7.0\LongestWordContainingW.csproj.AssemblyReference.cache
+C:\Users\alika\source\repos\LongestWordContainingW\obj\Debug\net7.0\LongestWordContainingW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alika\source\repos\LongestWordContainingW\obj\Debug\net7.0\LongestWordContainingW.AssemblyInfoInputs.cache
+C:\Users\alika\source\repos\LongestWordContainingW\obj\Debug\net7.0\LongestWordContainingW.AssemblyInfo.cs
+C:\Users\alika\source\repos\LongestWordContainingW\obj\Debug\net7.0\LongestWordContainingW.csproj.CoreCompileInputs.cache
+C:\Users\alika\source\repos\LongestWordContainingW\obj\Debug\net7.0\LongestWordContainingW.csproj.CopyComplete
+C:\Users\alika\source\repos\LongestWordContainingW\obj\Debug\net7.0\LongestWordContainingW.dll
+C:\Users\alika\source\repos\LongestWordContainingW\obj\Debug\net7.0\refint\LongestWordContainingW.dll
+C:\Users\alika\source\repos\LongestWordContainingW\obj\Debug\net7.0\LongestWordContainingW.pdb
+C:\Users\alika\source\repos\LongestWordContainingW\obj\Debug\net7.0\LongestWordContainingW.genruntimeconfig.cache
+C:\Users\alika\source\repos\LongestWordContainingW\obj\Debug\net7.0\ref\LongestWordContainingW.dll

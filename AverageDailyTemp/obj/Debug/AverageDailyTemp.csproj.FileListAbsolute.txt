@@ -1,0 +1,10 @@
+C:\Users\alika\source\repos\AverageDailyTemp\bin\Debug\AverageDailyTemp.exe.config
+C:\Users\alika\source\repos\AverageDailyTemp\bin\Debug\AverageDailyTemp.exe
+C:\Users\alika\source\repos\AverageDailyTemp\bin\Debug\AverageDailyTemp.pdb
+C:\Users\alika\source\repos\AverageDailyTemp\bin\Debug\TextFile.dll
+C:\Users\alika\source\repos\AverageDailyTemp\obj\Debug\AverageDailyTemp.csproj.AssemblyReference.cache
+C:\Users\alika\source\repos\AverageDailyTemp\obj\Debug\AverageDailyTemp.csproj.SuggestedBindingRedirects.cache
+C:\Users\alika\source\repos\AverageDailyTemp\obj\Debug\AverageDailyTemp.csproj.CoreCompileInputs.cache
+C:\Users\alika\source\repos\AverageDailyTemp\obj\Debug\AverageDailyTemp.csproj.CopyComplete
+C:\Users\alika\source\repos\AverageDailyTemp\obj\Debug\AverageDailyTemp.exe
+C:\Users\alika\source\repos\AverageDailyTemp\obj\Debug\AverageDailyTemp.pdb

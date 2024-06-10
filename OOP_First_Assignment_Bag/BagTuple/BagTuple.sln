@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BagTuple", "BagTuple.csproj", "{F86A0AE3-BC37-4A14-B804-3B4F87C42BBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BagTupleTest", "..\BagTupleTest\BagTupleTest.csproj", "{1F1FA541-C063-437B-A71B-2A25F4EE5636}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F86A0AE3-BC37-4A14-B804-3B4F87C42BBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F86A0AE3-BC37-4A14-B804-3B4F87C42BBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F86A0AE3-BC37-4A14-B804-3B4F87C42BBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F86A0AE3-BC37-4A14-B804-3B4F87C42BBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F1FA541-C063-437B-A71B-2A25F4EE5636}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F1FA541-C063-437B-A71B-2A25F4EE5636}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F1FA541-C063-437B-A71B-2A25F4EE5636}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F1FA541-C063-437B-A71B-2A25F4EE5636}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F00C54C9-2642-465C-9371-3EFAED3A6FDE}
+	EndGlobalSection
+EndGlobal

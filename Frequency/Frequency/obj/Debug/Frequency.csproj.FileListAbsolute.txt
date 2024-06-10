@@ -1,0 +1,10 @@
+C:\Users\alika\source\repos\Frequency\Frequency\bin\Debug\Frequency.exe.config
+C:\Users\alika\source\repos\Frequency\Frequency\bin\Debug\Frequency.exe
+C:\Users\alika\source\repos\Frequency\Frequency\bin\Debug\Frequency.pdb
+C:\Users\alika\source\repos\Frequency\Frequency\bin\Debug\TextFile.dll
+C:\Users\alika\source\repos\Frequency\Frequency\obj\Debug\Frequency.csproj.AssemblyReference.cache
+C:\Users\alika\source\repos\Frequency\Frequency\obj\Debug\Frequency.csproj.SuggestedBindingRedirects.cache
+C:\Users\alika\source\repos\Frequency\Frequency\obj\Debug\Frequency.csproj.CoreCompileInputs.cache
+C:\Users\alika\source\repos\Frequency\Frequency\obj\Debug\Frequency.csproj.CopyComplete
+C:\Users\alika\source\repos\Frequency\Frequency\obj\Debug\Frequency.exe
+C:\Users\alika\source\repos\Frequency\Frequency\obj\Debug\Frequency.pdb

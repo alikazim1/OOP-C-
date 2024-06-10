@@ -1,0 +1,8 @@
+C:\Users\alika\source\repos\Sphere1\bin\Debug\Sphere1.exe.config
+C:\Users\alika\source\repos\Sphere1\bin\Debug\Sphere1.exe
+C:\Users\alika\source\repos\Sphere1\bin\Debug\Sphere1.pdb
+C:\Users\alika\source\repos\Sphere1\obj\Debug\Sphere1.csproj.AssemblyReference.cache
+C:\Users\alika\source\repos\Sphere1\obj\Debug\Sphere1.csproj.SuggestedBindingRedirects.cache
+C:\Users\alika\source\repos\Sphere1\obj\Debug\Sphere1.csproj.CoreCompileInputs.cache
+C:\Users\alika\source\repos\Sphere1\obj\Debug\Sphere1.exe
+C:\Users\alika\source\repos\Sphere1\obj\Debug\Sphere1.pdb

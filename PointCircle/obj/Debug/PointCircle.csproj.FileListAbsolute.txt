@@ -1,0 +1,9 @@
+C:\Users\alika\source\repos\PointCircle\bin\Debug\PointCircle.exe.config
+C:\Users\alika\source\repos\PointCircle\bin\Debug\PointCircle.exe
+C:\Users\alika\source\repos\PointCircle\bin\Debug\PointCircle.pdb
+C:\Users\alika\source\repos\PointCircle\obj\Debug\PointCircle.csproj.AssemblyReference.cache
+C:\Users\alika\source\repos\PointCircle\obj\Debug\PointCircle.csproj.SuggestedBindingRedirects.cache
+C:\Users\alika\source\repos\PointCircle\obj\Debug\PointCircle.csproj.CoreCompileInputs.cache
+C:\Users\alika\source\repos\PointCircle\obj\Debug\PointCircle.exe
+C:\Users\alika\source\repos\PointCircle\obj\Debug\PointCircle.pdb
+C:\Users\alika\source\repos\PointCircle\obj\Debug\PointCircle.csproj.CopyComplete

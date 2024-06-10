@@ -1,0 +1,8 @@
+C:\Users\alika\source\repos\Petrol\bin\Debug\Petrol.exe.config
+C:\Users\alika\source\repos\Petrol\bin\Debug\Petrol.exe
+C:\Users\alika\source\repos\Petrol\bin\Debug\Petrol.pdb
+C:\Users\alika\source\repos\Petrol\obj\Debug\Petrol.csproj.AssemblyReference.cache
+C:\Users\alika\source\repos\Petrol\obj\Debug\Petrol.csproj.SuggestedBindingRedirects.cache
+C:\Users\alika\source\repos\Petrol\obj\Debug\Petrol.csproj.CoreCompileInputs.cache
+C:\Users\alika\source\repos\Petrol\obj\Debug\Petrol.exe
+C:\Users\alika\source\repos\Petrol\obj\Debug\Petrol.pdb

@@ -1,0 +1,17 @@
+C:\Users\alika\source\repos\SeqInputFile\obj\Debug\net7.0\SeqInputFile.csproj.AssemblyReference.cache
+C:\Users\alika\source\repos\SeqInputFile\obj\Debug\net7.0\SeqInputFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alika\source\repos\SeqInputFile\obj\Debug\net7.0\SeqInputFile.AssemblyInfoInputs.cache
+C:\Users\alika\source\repos\SeqInputFile\obj\Debug\net7.0\SeqInputFile.AssemblyInfo.cs
+C:\Users\alika\source\repos\SeqInputFile\obj\Debug\net7.0\SeqInputFile.csproj.CoreCompileInputs.cache
+C:\Users\alika\source\repos\SeqInputFile\bin\Debug\net7.0\SeqInputFile.exe
+C:\Users\alika\source\repos\SeqInputFile\bin\Debug\net7.0\SeqInputFile.deps.json
+C:\Users\alika\source\repos\SeqInputFile\bin\Debug\net7.0\SeqInputFile.runtimeconfig.json
+C:\Users\alika\source\repos\SeqInputFile\bin\Debug\net7.0\SeqInputFile.dll
+C:\Users\alika\source\repos\SeqInputFile\bin\Debug\net7.0\SeqInputFile.pdb
+C:\Users\alika\source\repos\SeqInputFile\bin\Debug\net7.0\TextFile.dll
+C:\Users\alika\source\repos\SeqInputFile\obj\Debug\net7.0\SeqInputFile.csproj.CopyComplete
+C:\Users\alika\source\repos\SeqInputFile\obj\Debug\net7.0\SeqInputFile.dll
+C:\Users\alika\source\repos\SeqInputFile\obj\Debug\net7.0\refint\SeqInputFile.dll
+C:\Users\alika\source\repos\SeqInputFile\obj\Debug\net7.0\SeqInputFile.pdb
+C:\Users\alika\source\repos\SeqInputFile\obj\Debug\net7.0\SeqInputFile.genruntimeconfig.cache
+C:\Users\alika\source\repos\SeqInputFile\obj\Debug\net7.0\ref\SeqInputFile.dll

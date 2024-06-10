@@ -1,0 +1,7 @@
+﻿Pear 12
+Bread 5
+Pear 10
+Apple 15
+Vodka 10
+Apple 5
+Cola 12

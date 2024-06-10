@@ -1,0 +1,11 @@
+C:\Users\alika\source\repos\CircleAndPoint\bin\Debug\CircleAndPoint.exe.config
+C:\Users\alika\source\repos\CircleAndPoint\bin\Debug\CircleAndPoint.exe
+C:\Users\alika\source\repos\CircleAndPoint\bin\Debug\CircleAndPoint.pdb
+C:\Users\alika\source\repos\CircleAndPoint\bin\Debug\TextFile.dll
+C:\Users\alika\source\repos\CircleAndPoint\obj\Debug\CircleAndPoint.csproj.AssemblyReference.cache
+C:\Users\alika\source\repos\CircleAndPoint\obj\Debug\CircleAndPoint.csproj.SuggestedBindingRedirects.cache
+C:\Users\alika\source\repos\CircleAndPoint\obj\Debug\CircleAndPoint.csproj.CoreCompileInputs.cache
+C:\Users\alika\source\repos\CircleAndPoint\obj\Debug\CircleAndPoint.csproj.CopyComplete
+C:\Users\alika\source\repos\CircleAndPoint\obj\Debug\CircleAndPoint.exe
+C:\Users\alika\source\repos\CircleAndPoint\obj\Debug\CircleAndPoint.pdb
+C:\Users\alika\source\repos\CircleAndPoint\bin\Debug\input.txt

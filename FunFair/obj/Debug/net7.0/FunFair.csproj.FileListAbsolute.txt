@@ -1,0 +1,15 @@
+C:\Users\alika\source\repos\FunFair\obj\Debug\net7.0\FunFair.csproj.AssemblyReference.cache
+C:\Users\alika\source\repos\FunFair\obj\Debug\net7.0\FunFair.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alika\source\repos\FunFair\obj\Debug\net7.0\FunFair.AssemblyInfoInputs.cache
+C:\Users\alika\source\repos\FunFair\obj\Debug\net7.0\FunFair.AssemblyInfo.cs
+C:\Users\alika\source\repos\FunFair\obj\Debug\net7.0\FunFair.csproj.CoreCompileInputs.cache
+C:\Users\alika\source\repos\FunFair\bin\Debug\net7.0\FunFair.exe
+C:\Users\alika\source\repos\FunFair\bin\Debug\net7.0\FunFair.deps.json
+C:\Users\alika\source\repos\FunFair\bin\Debug\net7.0\FunFair.runtimeconfig.json
+C:\Users\alika\source\repos\FunFair\bin\Debug\net7.0\FunFair.dll
+C:\Users\alika\source\repos\FunFair\bin\Debug\net7.0\FunFair.pdb
+C:\Users\alika\source\repos\FunFair\obj\Debug\net7.0\FunFair.dll
+C:\Users\alika\source\repos\FunFair\obj\Debug\net7.0\refint\FunFair.dll
+C:\Users\alika\source\repos\FunFair\obj\Debug\net7.0\FunFair.pdb
+C:\Users\alika\source\repos\FunFair\obj\Debug\net7.0\FunFair.genruntimeconfig.cache
+C:\Users\alika\source\repos\FunFair\obj\Debug\net7.0\ref\FunFair.dll

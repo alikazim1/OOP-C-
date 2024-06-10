@@ -1,0 +1,17 @@
+C:\Users\alika\source\repos\Altitude\bin\Debug\net7.0\Altitude.exe
+C:\Users\alika\source\repos\Altitude\bin\Debug\net7.0\Altitude.deps.json
+C:\Users\alika\source\repos\Altitude\bin\Debug\net7.0\Altitude.runtimeconfig.json
+C:\Users\alika\source\repos\Altitude\bin\Debug\net7.0\Altitude.dll
+C:\Users\alika\source\repos\Altitude\bin\Debug\net7.0\Altitude.pdb
+C:\Users\alika\source\repos\Altitude\obj\Debug\net7.0\Altitude.csproj.AssemblyReference.cache
+C:\Users\alika\source\repos\Altitude\obj\Debug\net7.0\Altitude.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alika\source\repos\Altitude\obj\Debug\net7.0\Altitude.AssemblyInfoInputs.cache
+C:\Users\alika\source\repos\Altitude\obj\Debug\net7.0\Altitude.AssemblyInfo.cs
+C:\Users\alika\source\repos\Altitude\obj\Debug\net7.0\Altitude.csproj.CoreCompileInputs.cache
+C:\Users\alika\source\repos\Altitude\obj\Debug\net7.0\Altitude.dll
+C:\Users\alika\source\repos\Altitude\obj\Debug\net7.0\refint\Altitude.dll
+C:\Users\alika\source\repos\Altitude\obj\Debug\net7.0\Altitude.pdb
+C:\Users\alika\source\repos\Altitude\obj\Debug\net7.0\Altitude.genruntimeconfig.cache
+C:\Users\alika\source\repos\Altitude\obj\Debug\net7.0\ref\Altitude.dll
+C:\Users\alika\source\repos\Altitude\bin\Debug\net7.0\TextFile.dll
+C:\Users\alika\source\repos\Altitude\obj\Debug\net7.0\Altitude.csproj.CopyComplete

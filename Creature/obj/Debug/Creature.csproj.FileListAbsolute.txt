@@ -1,0 +1,10 @@
+C:\Users\alika\source\repos\Creature\bin\Debug\Creature.exe.config
+C:\Users\alika\source\repos\Creature\bin\Debug\Creature.exe
+C:\Users\alika\source\repos\Creature\bin\Debug\Creature.pdb
+C:\Users\alika\source\repos\Creature\bin\Debug\TextFile.dll
+C:\Users\alika\source\repos\Creature\obj\Debug\Creature.csproj.AssemblyReference.cache
+C:\Users\alika\source\repos\Creature\obj\Debug\Creature.csproj.SuggestedBindingRedirects.cache
+C:\Users\alika\source\repos\Creature\obj\Debug\Creature.csproj.CoreCompileInputs.cache
+C:\Users\alika\source\repos\Creature\obj\Debug\Creature.csproj.CopyComplete
+C:\Users\alika\source\repos\Creature\obj\Debug\Creature.exe
+C:\Users\alika\source\repos\Creature\obj\Debug\Creature.pdb

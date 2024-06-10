@@ -1,0 +1,17 @@
+C:\Users\alika\source\repos\Healthy\bin\Debug\net7.0\Healthy.exe
+C:\Users\alika\source\repos\Healthy\bin\Debug\net7.0\Healthy.deps.json
+C:\Users\alika\source\repos\Healthy\bin\Debug\net7.0\Healthy.runtimeconfig.json
+C:\Users\alika\source\repos\Healthy\bin\Debug\net7.0\Healthy.dll
+C:\Users\alika\source\repos\Healthy\bin\Debug\net7.0\Healthy.pdb
+C:\Users\alika\source\repos\Healthy\bin\Debug\net7.0\TextFile.dll
+C:\Users\alika\source\repos\Healthy\obj\Debug\net7.0\Healthy.csproj.AssemblyReference.cache
+C:\Users\alika\source\repos\Healthy\obj\Debug\net7.0\Healthy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alika\source\repos\Healthy\obj\Debug\net7.0\Healthy.AssemblyInfoInputs.cache
+C:\Users\alika\source\repos\Healthy\obj\Debug\net7.0\Healthy.AssemblyInfo.cs
+C:\Users\alika\source\repos\Healthy\obj\Debug\net7.0\Healthy.csproj.CoreCompileInputs.cache
+C:\Users\alika\source\repos\Healthy\obj\Debug\net7.0\Healthy.csproj.CopyComplete
+C:\Users\alika\source\repos\Healthy\obj\Debug\net7.0\Healthy.dll
+C:\Users\alika\source\repos\Healthy\obj\Debug\net7.0\refint\Healthy.dll
+C:\Users\alika\source\repos\Healthy\obj\Debug\net7.0\Healthy.pdb
+C:\Users\alika\source\repos\Healthy\obj\Debug\net7.0\Healthy.genruntimeconfig.cache
+C:\Users\alika\source\repos\Healthy\obj\Debug\net7.0\ref\Healthy.dll

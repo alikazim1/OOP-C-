@@ -1,0 +1,12 @@
+C:\Users\alika\source\repos\Atmosphere\bin\Debug\Atmosphere.exe.config
+C:\Users\alika\source\repos\Atmosphere\bin\Debug\Atmosphere.exe
+C:\Users\alika\source\repos\Atmosphere\bin\Debug\Atmosphere.pdb
+C:\Users\alika\source\repos\Atmosphere\bin\Debug\TextFile.dll
+C:\Users\alika\source\repos\Atmosphere\obj\Debug\Atmosphere.csproj.AssemblyReference.cache
+C:\Users\alika\source\repos\Atmosphere\obj\Debug\Atmosphere.csproj.SuggestedBindingRedirects.cache
+C:\Users\alika\source\repos\Atmosphere\obj\Debug\Atmosphere.csproj.CoreCompileInputs.cache
+C:\Users\alika\source\repos\Atmosphere\obj\Debug\Atmosphere.csproj.CopyComplete
+C:\Users\alika\source\repos\Atmosphere\obj\Debug\Atmosphere.exe
+C:\Users\alika\source\repos\Atmosphere\obj\Debug\Atmosphere.pdb
+C:\Users\alika\source\repos\Atmosphere\bin\Debug\nunit.framework.dll
+C:\Users\alika\source\repos\Atmosphere\bin\Debug\nunit.framework.xml

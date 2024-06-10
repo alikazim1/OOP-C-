@@ -1,0 +1,10 @@
+C:\Users\alika\source\repos\Store\bin\Debug\Store.exe.config
+C:\Users\alika\source\repos\Store\bin\Debug\Store.exe
+C:\Users\alika\source\repos\Store\bin\Debug\Store.pdb
+C:\Users\alika\source\repos\Store\bin\Debug\TextFile.dll
+C:\Users\alika\source\repos\Store\obj\Debug\Store.csproj.AssemblyReference.cache
+C:\Users\alika\source\repos\Store\obj\Debug\Store.csproj.SuggestedBindingRedirects.cache
+C:\Users\alika\source\repos\Store\obj\Debug\Store.csproj.CoreCompileInputs.cache
+C:\Users\alika\source\repos\Store\obj\Debug\Store.csproj.CopyComplete
+C:\Users\alika\source\repos\Store\obj\Debug\Store.exe
+C:\Users\alika\source\repos\Store\obj\Debug\Store.pdb

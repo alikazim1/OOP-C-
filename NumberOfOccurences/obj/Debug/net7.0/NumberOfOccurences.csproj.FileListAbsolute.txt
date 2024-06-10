@@ -1,0 +1,17 @@
+C:\Users\alika\source\repos\NumberOfOccurences\bin\Debug\net7.0\NumberOfOccurences.exe
+C:\Users\alika\source\repos\NumberOfOccurences\bin\Debug\net7.0\NumberOfOccurences.deps.json
+C:\Users\alika\source\repos\NumberOfOccurences\bin\Debug\net7.0\NumberOfOccurences.runtimeconfig.json
+C:\Users\alika\source\repos\NumberOfOccurences\bin\Debug\net7.0\NumberOfOccurences.dll
+C:\Users\alika\source\repos\NumberOfOccurences\bin\Debug\net7.0\NumberOfOccurences.pdb
+C:\Users\alika\source\repos\NumberOfOccurences\bin\Debug\net7.0\TextFile.dll
+C:\Users\alika\source\repos\NumberOfOccurences\obj\Debug\net7.0\NumberOfOccurences.csproj.AssemblyReference.cache
+C:\Users\alika\source\repos\NumberOfOccurences\obj\Debug\net7.0\NumberOfOccurences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alika\source\repos\NumberOfOccurences\obj\Debug\net7.0\NumberOfOccurences.AssemblyInfoInputs.cache
+C:\Users\alika\source\repos\NumberOfOccurences\obj\Debug\net7.0\NumberOfOccurences.AssemblyInfo.cs
+C:\Users\alika\source\repos\NumberOfOccurences\obj\Debug\net7.0\NumberOfOccurences.csproj.CoreCompileInputs.cache
+C:\Users\alika\source\repos\NumberOfOccurences\obj\Debug\net7.0\NumberOfOccurences.csproj.CopyComplete
+C:\Users\alika\source\repos\NumberOfOccurences\obj\Debug\net7.0\NumberOfOccurences.dll
+C:\Users\alika\source\repos\NumberOfOccurences\obj\Debug\net7.0\refint\NumberOfOccurences.dll
+C:\Users\alika\source\repos\NumberOfOccurences\obj\Debug\net7.0\NumberOfOccurences.pdb
+C:\Users\alika\source\repos\NumberOfOccurences\obj\Debug\net7.0\NumberOfOccurences.genruntimeconfig.cache
+C:\Users\alika\source\repos\NumberOfOccurences\obj\Debug\net7.0\ref\NumberOfOccurences.dll

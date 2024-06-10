@@ -1,0 +1,17 @@
+C:\Users\alika\source\repos\Fish\obj\Debug\net7.0\Fish.csproj.AssemblyReference.cache
+C:\Users\alika\source\repos\Fish\obj\Debug\net7.0\Fish.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alika\source\repos\Fish\obj\Debug\net7.0\Fish.AssemblyInfoInputs.cache
+C:\Users\alika\source\repos\Fish\obj\Debug\net7.0\Fish.AssemblyInfo.cs
+C:\Users\alika\source\repos\Fish\obj\Debug\net7.0\Fish.csproj.CoreCompileInputs.cache
+C:\Users\alika\source\repos\Fish\bin\Debug\net7.0\Fish.exe
+C:\Users\alika\source\repos\Fish\bin\Debug\net7.0\Fish.deps.json
+C:\Users\alika\source\repos\Fish\bin\Debug\net7.0\Fish.runtimeconfig.json
+C:\Users\alika\source\repos\Fish\bin\Debug\net7.0\Fish.dll
+C:\Users\alika\source\repos\Fish\bin\Debug\net7.0\Fish.pdb
+C:\Users\alika\source\repos\Fish\bin\Debug\net7.0\TextFile.dll
+C:\Users\alika\source\repos\Fish\obj\Debug\net7.0\Fish.csproj.CopyComplete
+C:\Users\alika\source\repos\Fish\obj\Debug\net7.0\Fish.dll
+C:\Users\alika\source\repos\Fish\obj\Debug\net7.0\refint\Fish.dll
+C:\Users\alika\source\repos\Fish\obj\Debug\net7.0\Fish.pdb
+C:\Users\alika\source\repos\Fish\obj\Debug\net7.0\Fish.genruntimeconfig.cache
+C:\Users\alika\source\repos\Fish\obj\Debug\net7.0\ref\Fish.dll
